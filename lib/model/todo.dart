@@ -19,8 +19,6 @@ class ToDo{
     ToDo(id: '06', todoText: 'Work on mobile apps for 2 hour'),
     ToDo(id: '07', todoText: 'Drink milk'),
 
-
-
     ];
   }
 }
